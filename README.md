@@ -14,9 +14,6 @@ Analyze customer churn and retention patterns to identify key factors affecting 
 - Excel / CSV
 - Data Cleaning & Visualization
 
-## 📈 Dashboard Preview
-![Dashboard](images/dashboard1.png)
-
 ## 📂 Project Files
 - Power BI Dashboard (.pbix)
 - Dataset
