@@ -1,31 +1,28 @@
 # FUTURE_DS_02
-Analyzed sales data using Power BI to identify revenue trends, top products, and regional performance, enabling actionable insights and data-driven business decisions.
-# Business Sales Performance Analytics
+# Customer Retention & Churn Analysis
 
 ## 📌 Problem Statement
-Analyze sales data to identify trends, top-performing products, and business growth opportunities.
+Analyze customer churn and retention patterns to identify key factors affecting customer loss.
 
-## 🎯 Objectives
-- Understand revenue trends over time
-- Identify top-selling products
-- Analyze profitable regions/categories
+## 📊 Key Insights
+- Churn rate is highest among [segment]
+- Customers with [feature] are more likely to leave
+- Retention improves when [factor]
 
-## 📊 Tools Used
+## 🛠 Tools Used
 - Power BI
 - Excel / CSV
-- DAX
+- Data Cleaning & Visualization
 
-## 📈 Key Insights
-- Sales increased steadily over time
-- Technology category generated highest revenue
-- West region is most profitable
+## 📈 Dashboard Preview
+![Dashboard](images/dashboard1.png)
 
-## 💡 Recommendations
-- Focus on high-performing categories
-- Improve low-performing regions
-- Optimize product pricing strategies
-
-## 📁 Files Included
-- .pbix file
+## 📂 Project Files
+- Power BI Dashboard (.pbix)
 - Dataset
 - Screenshots
+
+## 🚀 Learnings
+- Built interactive dashboard
+- Identified churn drivers
+- Improved storytelling with data
